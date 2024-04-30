@@ -13,6 +13,12 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      fontFamily: {
+        breuertextbold: ["var(--font-breuertextbold)"],
+        breuerheadline: ["var(--font-breuerheadline)"],
+        breuerfont: ["var(--font-breuerfont)"],
+        zingrust: ["var(--font-zingrust)"],
+      },
     },
   },
   plugins: [],
