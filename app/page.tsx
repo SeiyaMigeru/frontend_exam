@@ -259,7 +259,7 @@ export default function Home() {
             transition={{ duration: 0.5 }}
           >
             <Image
-              src="/images/arrow.png"
+              src="/images/Arrow.png"
               alt="Steps Image"
               height={400}
               width={15}
