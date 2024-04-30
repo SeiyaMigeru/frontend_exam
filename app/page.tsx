@@ -348,13 +348,13 @@ export default function Home() {
           </p>{" "}
           <p>
             {" "}
-            12. The status of pending bonus dollars may be found in the &#34 My
-            Account &#34 section of the Poker client.{" "}
+            12. The status of pending bonus dollars may be found in the &#34; My
+            Account &#34; section of the Poker client.{" "}
           </p>{" "}
           <p>
             {" "}
             13. Please note that our Poker games may be played in USD ($). GBP
-            (£) and Euro (€). The &#34 Cashier &#34 will automatically convert your
+            (£) and Euro (€). The &#34; Cashier &#34; will automatically convert your
             funds into your desired currency of play (and back) at the
             prevailing daily exchange rate.{" "}
           </p>{" "}
@@ -389,12 +389,12 @@ export default function Home() {
           <p>
             6. Please note that the free bet will only appear in your account
             once the amount of your own deposit has been bet with on any
-            sporting event(s) (this doesn &#34 t have to be bet as one go but can be
+            sporting event(s) (this doesn &#34; t have to be bet as one go but can be
             bet in increments). The free bet must then be staked before any
             withdrawal is permitted. Void bets do not count toward this offer.
           </p>
           <p>
-            7. The free bet can be used on &#34 sports &#34 events and are not valid for
+            7. The free bet can be used on &#34; sports &#34; events and are not valid for
             Games, Casino, Virtual Sports, Poker, Lotto, Bingo, Live Casino.
           </p>
           <p>
